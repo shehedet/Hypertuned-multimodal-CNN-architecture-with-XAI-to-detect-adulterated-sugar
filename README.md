@@ -46,7 +46,7 @@ This project is part of our undergraduate thesis conducted in the **Computer Sci
 - **Anika Alamgir**
 - **Nashita Anjum**
 - **A. K. M. Shahadat Hossain**
-- **Debpriyo Hrishikesh Das**
+- **Debpriyo Hrishikesh Deb Nath**
 
 ### Supervision
 - **Supervisor:** Dr. Chowdhury Mofizur Rahman 
