@@ -1,7 +1,7 @@
 # Sugar Adulteration Detection using Ensemble Learning
 
 ## Overview
-This was part of our thesis for CSE undergrad, focusing on detection of sugar adulteration using advanced **deep learning ensemble techniques**. It combines multiple state-of-the-art CNN architectures and incorporates uncertainty estimation and interpretability methods, making it suitable for **research and thesis-level work**.
+This was part of our thesis for CSE undergrad, focusing on detection of sugar adulteration using advanced **deep learning ensemble techniques**. It combines multiple CNN architectures and incorporates uncertainty estimation and interpretability methods, making it suitable for **research and thesis-level work**. The ensemble model detects and classifies the level of known adulterations (adulterants that were used during training). For unknown adulterants, the model we used Mahalanobis Distance to compare it to pure sugar.
 
 ---
 
