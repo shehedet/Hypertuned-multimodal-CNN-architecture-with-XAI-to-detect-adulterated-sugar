@@ -48,9 +48,9 @@ This project is part of our undergraduate thesis conducted in the **Computer Sci
 - **A. K. M. Shahadat Hossain**
 - **Debpriyo Hrishikesh Das**
 
-### 🎓 Supervision
+### Supervision
 - **Supervisor:** Dr. Chowdhury Mofizur Rahman 
 - **Co-Supervisor:** Rafeed Rahman
 
-### 📌 Note
+### Note
 This repository represents a collaborative academic effort. All members contributed to the design, implementation, and evaluation of the project under the guidance of our supervisor and co-supervisor.
